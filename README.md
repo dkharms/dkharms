@@ -1,4 +1,4 @@
-<h1 align="left">Porokhnin Daniil</h1>
+<h1 align="left">Daniel Porokhnin</h1>
 
 ###
 
