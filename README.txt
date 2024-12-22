@@ -1,4 +1,4 @@
-The name is Daniel Porokhnin.
+The name is Daniil Porokhnin.
 
 My education:
 - Got my bachelor's degree at HSE [1] faculty of Computer Science;
